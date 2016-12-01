@@ -1,0 +1,944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"deleteRollNo"
+			],
+			[
+				"lastE",
+				"lastElement"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"fir",
+				"firstCapital〔function〕"
+			],
+			[
+				"tra",
+				"trauncateString〔function〕"
+			],
+			[
+				"get",
+				"getDay〔function〕"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"sum",
+				"sumMultiples"
+			],
+			[
+				"largest",
+				"largestNumberArray〔function〕"
+			],
+			[
+				"is",
+				"isBoolean"
+			],
+			[
+				"re",
+				"refreshStudentList"
+			],
+			[
+				"refres",
+				"refreshStudentList"
+			],
+			[
+				"garde",
+				"gradeStudent"
+			],
+			[
+				"grade",
+				"gradeStudent"
+			],
+			[
+				"averga",
+				"averageGrade"
+			],
+			[
+				"g",
+				"grade"
+			],
+			[
+				"sample",
+				"sample2"
+			],
+			[
+				"avera",
+				"averageMark"
+			],
+			[
+				"large",
+				"largestNumber"
+			],
+			[
+				"sort",
+				"sortItems"
+			],
+			[
+				"per",
+				"perfectNumbers"
+			],
+			[
+				"fac",
+				"factor"
+			],
+			[
+				"factor",
+				"factorOfNumber"
+			],
+			[
+				"array",
+				"array_num"
+			],
+			[
+				"pro",
+				"productOfSign"
+			],
+			[
+				"lar",
+				"largestNumberIs"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"vowe",
+				"vowelCount〔function〕"
+			],
+			[
+				"vo",
+				"vowelCount"
+			],
+			[
+				"vowel",
+				"vowelList"
+			],
+			[
+				"longest",
+				"longestWord〔function〕"
+			],
+			[
+				"arra",
+				"array1〔variable〕"
+			],
+			[
+				"o",
+				"objectString"
+			],
+			[
+				"object",
+				"objectString〔variable〕"
+			],
+			[
+				"document",
+				"document.getElementById('exercise').innerHTML"
+			],
+			[
+				"or",
+				"oderedString"
+			],
+			[
+				"string",
+				"stringArray〔variable〕"
+			],
+			[
+				"str",
+				"stringArray〔variable〕"
+			],
+			[
+				"rever",
+				"reversedArray〔variable〕"
+			],
+			[
+				"mu",
+				"multiplicationTable"
+			],
+			[
+				"reve",
+				"reversedArray〔variable〕"
+			],
+			[
+				"lare",
+				"largestNumberInArray〔function〕"
+			],
+			[
+				"day",
+				"dayList〔variable〕"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"my",
+				"mySort"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"co",
+				"console.log"
+			],
+			[
+				"image",
+				"imageList"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"link",
+				"linkText"
+			],
+			[
+				"input",
+				"inputBox"
+			],
+			[
+				"alert",
+				"alertMessage"
+			],
+			[
+				"fi",
+				"findElement"
+			],
+			[
+				"driver",
+				"driver.get().then"
+			],
+			[
+				"Web",
+				"WebDriver.Key.ENTER"
+			],
+			[
+				"We",
+				"WebDriver.Key.ENTER"
+			],
+			[
+				"se",
+				"sendKeys"
+			],
+			[
+				"f",
+				"findElement"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"el",
+				"ellipsestext"
+			],
+			[
+				"show",
+				"showChar"
+			],
+			[
+				"Show",
+				"showMore"
+			],
+			[
+				"read",
+				"read_more"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"Emai",
+				"Email"
+			],
+			[
+				"count",
+				"counter-increment"
+			],
+			[
+				"cu",
+				"current_count"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"div",
+				"div_id"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"I",
+				"inherit"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"blog",
+				"blog_content"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"Jap",
+				"Japan"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"email",
+				"email_id"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"jp",
+				"Japan"
+			],
+			[
+				"width",
+				"border-width"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sty",
+				"border-style"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"left",
+				"leftContent"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"n",
+				"georgian"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"main",
+				"mainContainer"
+			],
+			[
+				"error",
+				"error_reporting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 663,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "array.js",
+			"settings":
+			{
+				"buffer_size": 5116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conditional_exercise.js",
+			"settings":
+			{
+				"buffer_size": 5439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "exercise.js",
+			"settings":
+			{
+				"buffer_size": 7878,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "function_exercise.js",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "validation_exercise.js",
+			"settings":
+			{
+				"buffer_size": 3861,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/api_test/api-test/node_modules"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/javascript/question.js",
+		"/C/wamp/www/javascript/question_1.js",
+		"/C/wamp/www/api_test/test/book.js",
+		"/C/wamp/www/javascript/function_exercise.js",
+		"/C/wamp/www/api_test/server.js",
+		"/C/wamp/www/api_test/api/routes/book.js",
+		"/C/wamp/www/api_test/api/model/book.js",
+		"/C/wamp/www/api_test/dev.json",
+		"/C/wamp/www/api_test/test.json",
+		"/C/wamp/www/api_test/package.json",
+		"/C/wamp/www/api_test/npm-debug.log",
+		"/C/wamp/www/api_test/default.json",
+		"/C/wamp/www/javascript/array.js",
+		"/C/wamp/www/javascript/conditional_exercise.js",
+		"/C/wamp/www/javascript/w3exercise_2.html",
+		"/C/wamp/www/javascript/w3exercise_2.js",
+		"/C/wamp/www/Selenium-Automation/exercise/file_test.js",
+		"/C/wamp/www/javascript/conditional_exercise.html",
+		"/C/wamp/www/javascript/validation_exercise.html",
+		"/C/wamp/www/javascript/function_exercise.html",
+		"/C/wamp/www/javascript/execrise.html",
+		"/C/wamp/www/javascript/execrise.js",
+		"/C/wamp/www/javascript/exercise.js",
+		"/C/wamp/www/javascript/script.js",
+		"/C/wamp/www/javascript/array.html",
+		"/C/wamp/www/htmlStudy/gallery.html",
+		"/C/wamp/www/javascript/script.html",
+		"/C/wamp/www/htmlStudy/about.html",
+		"/C/wamp/www/htmlStudy/imagegall.html",
+		"/C/wamp/www/htmlStudy/js/script.js",
+		"/C/wamp/www/htmlStudy/contact_us.html",
+		"/C/wamp/www/htmlStudy/blogs.html",
+		"/C/wamp/www/Slelenium-driver/node_modules/selenium-webdriver/testing/assert.js",
+		"/C/wamp/www/Slelenium-driver/testing.js",
+		"/C/wamp/www/Slelenium-driver/facebook_testing.js",
+		"/C/wamp/www/htmlStudy/index.html",
+		"/C/Users/ksprajapati/AppData/Local/Temp/Rar$EXa0.268/htmlStudy-develop/about.html",
+		"/C/Users/ksprajapati/Downloads/Package Control.sublime-package",
+		"/C/Users/ksprajapati/Documents/desktop/html study/Html1 study/css_internal.html",
+		"/C/Users/ksprajapati/Documents/desktop/html study/Html1 study/External.css",
+		"/C/Users/ksprajapati/Documents/desktop/html study/Html1 study/external_css.html",
+		"/C/Users/ksprajapati/Desktop/desktop/html study/Html1 study/external_css.html",
+		"/C/Users/ksprajapati/Desktop/desktop/html study/Html1 study/External.css",
+		"/C/Users/ksprajapati/Documents/desktop/html study/form.html",
+		"/C/Users/ksprajapati/Desktop/desktop/html study/Html1 study/css_internal.html",
+		"/C/Users/ksprajapati/Desktop/desktop/html study/table.html",
+		"/C/Users/ksprajapati/Desktop/desktop/html study/form.html",
+		"/C/wamp/www/htmlStudy/main.html",
+		"/C/wamp/www/htmlStudy/tab1.html",
+		"/C/wamp/www/htmlStudy/contact us.html",
+		"/C/wamp/www/htmlStudy/blog.html",
+		"/C/wamp/www/htmlStudy/index - Copy.html",
+		"/C/wamp/www/htmlStudy/style/main.style",
+		"/C/Users/ksprajapati/Desktop/t.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"let",
+			";\n",
+			">",
+			"th",
+			"is_array",
+			"lowest",
+			"storeArray",
+			"largest",
+			"�",
+			"trees",
+			");\n",
+			"test.describe('Mercury Tour',function(){\n	test.it('Welcome: Mercury Tours',function(){\n		var driver = new webdriver.Builder().withCapabilities(webdriver.Capabilities.firefox()).\n		build();\n\n		driver.get('http://www.newtours.demoaut.com');\n		actualTitle= driver.getTitle();\n\n		driver.quit();\n	});\n});	",
+			"\ntest.describe('Mercury Tour',function(){\n	test.it('Welcome: Mercury Tours',function(){\n		var driver = new webdriver.Builder().withCapabilities(webdriver.Capabilities.firefox()).\n		build();\n\n		driver.get('http://www.newtours.demoaut.com');\n		actualTitle= driver.getTitle();\n\n		driver.quit();",
+			"});\n",
+			"evenImg",
+			"linkedLn_32",
+			"linkedin_32",
+			"option",
+			"0 0 10px #000000",
+			"Training",
+			"seal",
+			"login",
+			"Gender",
+			"</li>",
+			"<li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"5px 5px 5px #B28308",
+			"friendship_3",
+			"friendship_2",
+			"friendship_1",
+			"</a><li>",
+			"<li> <a href=\"#\" >"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "array.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "conditional_exercise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "exercise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "function_exercise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "validation_exercise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "javascript.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/htmlStudy/login.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\sublime-projects\\selenium-automation1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
